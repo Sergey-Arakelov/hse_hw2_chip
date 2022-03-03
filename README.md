@@ -24,3 +24,14 @@
 
 ![image](https://user-images.githubusercontent.com/93254228/156645499-fb69938c-6d65-422e-a1d3-2d1e91186889.png)
 
+Как видно, ситуация улучшилась как с Per tile sequence quality, так и с Per base sequence quality.
+
+## ENCFF299BLB (Реплика 2)
+
+![image](https://user-images.githubusercontent.com/93254228/156645905-6507480a-1129-4545-b46f-926c9bb11d49.png)
+
+![image](https://user-images.githubusercontent.com/93254228/156645962-607bbd27-311e-471b-b653-0eea8b632cff.png)
+
+![image](https://user-images.githubusercontent.com/93254228/156646000-f50236e7-5ea7-4dd8-998d-97ab00518882.png)
+
+Здесь подрезания не потребовались.
