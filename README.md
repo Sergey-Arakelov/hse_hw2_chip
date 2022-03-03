@@ -14,4 +14,13 @@
 
 ![image](https://user-images.githubusercontent.com/93254228/156644586-52012ee6-6cdc-423a-b0f4-96e733618d4d.png)
  
- Как видно из 
+ Как видно из графика Per tile sequence quality, требуется провести подрезание для данного чтения (используем trimmomatic).
+ 
+ Что имеем на выходе:
+ 
+ ![image](https://user-images.githubusercontent.com/93254228/156645382-9edbf652-1b17-4696-9523-4df71ae52a47.png)
+
+![image](https://user-images.githubusercontent.com/93254228/156645453-8f5670c1-e7a5-457f-8ae7-cb1e915885a9.png)
+
+![image](https://user-images.githubusercontent.com/93254228/156645499-fb69938c-6d65-422e-a1d3-2d1e91186889.png)
+
