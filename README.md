@@ -62,3 +62,17 @@
 
 ![image](https://user-images.githubusercontent.com/93254228/156658485-e71cdd08-38b9-4aef-bc81-731c4982a4d3.png)
 
+# Сравнение результатов (диаграммы Венна):
+
+## Для первой реплики:
+
+![image](https://user-images.githubusercontent.com/93254228/156665427-b0cc6fa7-5790-486d-8abd-224c545987b7.png)
+
+![image](https://user-images.githubusercontent.com/93254228/156665491-1042a102-ae36-4106-a32f-4219167b770b.png)
+
+## Для второй реплики:
+
+![image](https://user-images.githubusercontent.com/93254228/156665561-2b16fb81-00e7-4a48-9c43-00f84696f52c.png)
+
+![image](https://user-images.githubusercontent.com/93254228/156665760-066dfeff-f739-4d00-8577-4b51098659eb.png)
+
