@@ -4,6 +4,8 @@
 
 Реплика 1 - ENCFF281ZEA; Реплика 2 - ENCFF299BLB; Контроль - ENCFF829PCB.
 
+Ссылка на колаб: https://colab.research.google.com/drive/1KK8B4UnEKpcjuBRRkboHp261GUGD2owP?usp=sharing
+
 # FastQC
 
 ## ENCFF281ZEA (реплика 1)
