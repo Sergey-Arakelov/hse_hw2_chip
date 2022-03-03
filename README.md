@@ -37,3 +37,21 @@
 Здесь подрезания не потребовались.
 
 ## ENCFF829PCB (контрольный образец)
+
+![image](https://user-images.githubusercontent.com/93254228/156647135-27d2e93c-2213-4d94-a9b1-49d593b627c9.png)
+
+![image](https://user-images.githubusercontent.com/93254228/156647213-f780adf2-c0b8-4aaa-8a89-98f8cbd73b9a.png)
+
+![image](https://user-images.githubusercontent.com/93254228/156647248-4db930fe-5740-40dc-8b5a-3da11c9f0d50.png)
+
+Видно, что, как и в случае первой реплики, нужно использовать trimmomatic для подрезания.
+
+Итог:
+
+![image](https://user-images.githubusercontent.com/93254228/156647373-a77ea302-a42d-4f48-b807-3042d8b3f6a6.png)
+
+![image](https://user-images.githubusercontent.com/93254228/156647399-d97a88d3-a646-4421-99d5-9bde19dcf7cf.png)
+
+![image](https://user-images.githubusercontent.com/93254228/156647450-e41a3c70-44e3-410a-92a6-a7922216e00b.png)
+
+Ситуация очень похоже на ту, что наблюдалась при подрезании первой реплики.
