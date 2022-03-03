@@ -6,7 +6,7 @@
 
 # FastQC
 
-## ENCFF281ZEA (Реплика 1)
+## ENCFF281ZEA (реплика 1)
 
 ![image](https://user-images.githubusercontent.com/93254228/156644494-a335b367-b5d8-489d-8e3d-1e8b96b7ea9e.png)
 
@@ -26,7 +26,7 @@
 
 Как видно, ситуация улучшилась как с Per tile sequence quality, так и с Per base sequence quality.
 
-## ENCFF299BLB (Реплика 2)
+## ENCFF299BLB (реплика 2)
 
 ![image](https://user-images.githubusercontent.com/93254228/156645905-6507480a-1129-4545-b46f-926c9bb11d49.png)
 
@@ -35,3 +35,5 @@
 ![image](https://user-images.githubusercontent.com/93254228/156646000-f50236e7-5ea7-4dd8-998d-97ab00518882.png)
 
 Здесь подрезания не потребовались.
+
+## ENCFF829PCB (контрольный образец)
