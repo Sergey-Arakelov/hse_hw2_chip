@@ -59,3 +59,6 @@
 # Bowtie
 
 Таблица с результатами анализа bowtie:
+
+![image](https://user-images.githubusercontent.com/93254228/156658485-e71cdd08-38b9-4aef-bc81-731c4982a4d3.png)
+
