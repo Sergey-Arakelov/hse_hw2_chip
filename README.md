@@ -26,7 +26,7 @@
 
 ![image](https://user-images.githubusercontent.com/93254228/156645499-fb69938c-6d65-422e-a1d3-2d1e91186889.png)
 
-Как видно, ситуация улучшилась как с Per tile sequence quality, так и с Per base sequence quality.
+Как видно, ситуация улучшилась как с Per tile sequence quality (в меньшей степени, так как остаются некоторые проблемы с качеством), так и с Per base sequence quality.
 
 ## ENCFF299BLB (реплика 2)
 
